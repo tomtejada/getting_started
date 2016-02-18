@@ -8,6 +8,8 @@
 2. Navigate to your root directory by typing `cd` + `enter` into your command line. Hopefully you recall some of this from the previous environment setup tutorials!
 3. Enter the following command into your Terminal command line:  
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+THIS REQURES COMPUTER PASSWORD. PASSWORD WILL NOT SHOW
+
 4. Once this completes downloading, we need to update your `~/.bash_profile` file. Bash is the shell, or the command line interpreter that takes in these commands we've been typing into our Terminal and helps our operating system carry each command out. Our Bash profile is a hidden file (denoted by the `.` in front of the file name `.bash_profle`) that keeps certain instructions and commands that we don't need to see regularly. 
 5. If you type `ls` + `enter` into your command line, you will be returned file names you might be familiar with. Here is an example of what mine looks like:  
 ![ruby1](http://i.imgur.com/XHCIriy.png)  
